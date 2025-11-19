@@ -1,1 +1,21 @@
-# beecrowd-csharp
+# 🧠 Beecrowd Challenges – C#
+
+Repositório criado para acompanhar minha evolução em lógica de programação utilizando **C#** através dos desafios do **Beecrowd (URI Online Judge)**.
+
+Aqui registro meu progresso de forma consistente, com código organizado, padrão de commits profissional e anotações sobre cada problema resolvido.
+
+---
+
+## 🎯 Objetivos
+
+- Desenvolver lógica de programação com exercícios reais  
+- Evoluir no ecossistema `.NET`  
+- Criar um histórico público de aprendizado  
+- Demonstrar constância e disciplina nos estudos  
+
+---
+
+## 📁 Estrutura
+
+Cada pasta representa um problema específico do Beecrowd.
+
