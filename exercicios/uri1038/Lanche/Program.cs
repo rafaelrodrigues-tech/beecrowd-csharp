@@ -35,5 +35,4 @@ class Lanche
         Console.WriteLine($"Total: R$ {Lanche.ToString("F2",CultureInfo.InvariantCulture)}");
         Console.ReadKey();
     } 
-
 }
