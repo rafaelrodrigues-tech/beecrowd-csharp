@@ -24,7 +24,6 @@ class URI
         {
             Console.WriteLine("NAO FORMA TRIANGULO");
             return;
-            Console.ReadKey();
         }
         if (a * a == b * b + c * c)
         {
