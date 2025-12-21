@@ -12,7 +12,9 @@ Aqui registro meu progresso de forma consistente, com código organizado, padrã
 - Evoluir no ecossistema `.NET`  
 - Criar um histórico público de aprendizado  
 - Demonstrar constância e disciplina nos estudos  
-
+- Criar histórico público de aprendizado utilizando Git e GitHub
+- Aplicar boas práticas de versionamento e commits semânticos
+  
 ---
 
 ## 📁 Estrutura
