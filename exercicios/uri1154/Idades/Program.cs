@@ -6,7 +6,6 @@ class URI
 
     static void Main(string[] args)
     {
-        int idade;
         int cont = 0;
         int soma = 0;
         double media;
