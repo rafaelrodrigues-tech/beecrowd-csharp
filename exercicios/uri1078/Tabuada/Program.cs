@@ -1,0 +1,19 @@
+﻿using System;
+
+class URI
+{
+
+    static void Main(string[] args)
+    {
+
+        int N;
+        N = int.Parse(Console.ReadLine());
+
+        for (int i = 1; i < 11; i++)
+        {
+            Console.WriteLine(i +" x "+ N +" = "+ i*N);
+        }
+        Console.ReadLine();
+    }
+
+}
