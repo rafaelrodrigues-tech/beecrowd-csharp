@@ -2,7 +2,7 @@
 
 Repositório criado para acompanhar minha evolução em lógica de programação utilizando **C#** através dos desafios do **Beecrowd (URI Online Judge)**.
 
-Aqui registro meu progresso de forma consistente, com código organizado, padrão de commits profissional e anotações sobre cada problema resolvido.
+Aqui registro meu progresso de forma consistente, com código organizado e padrão de commits profissional.
 
 ---
 
