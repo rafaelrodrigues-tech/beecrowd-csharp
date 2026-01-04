@@ -13,7 +13,7 @@ class URI
             string[] valores = Console.ReadLine().Split();
             N = int.Parse(valores[0]);
             M = int.Parse(valores[1]);
-            if (N == 0 || M == 0)
+            if (N <= 0 || M <= 0)
             {
                 break;
             }
