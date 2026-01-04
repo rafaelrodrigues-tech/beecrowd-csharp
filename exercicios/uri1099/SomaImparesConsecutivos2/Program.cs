@@ -2,14 +2,12 @@
 
 class URI
 {
-
     static void Main(string[] args)
     {
         int N, X, Y;
         int menor;
         int maior;
         N = int.Parse(Console.ReadLine());
-
         for (int i = 0; i < N; i++)
         {
             string[] valores = Console.ReadLine().Split(' ');
@@ -27,6 +25,5 @@ class URI
               }
             Console.WriteLine(soma);
         }
-         Console.ReadLine();
     }
 }
