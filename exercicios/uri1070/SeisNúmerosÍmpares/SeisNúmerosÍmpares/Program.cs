@@ -2,7 +2,6 @@
 
 class URI
 {
-
     static void Main(string[] args)
     {
         int x = int.Parse(Console.ReadLine());
@@ -12,13 +11,11 @@ class URI
         }
         for (int i = 0; i < 6; i++)
         {
-            if (x % 2 ==1)
+            if (x % 2 == 1)
             {
                 Console.WriteLine(x);
             }
-            x+=2;
+            x += 2;
         }
-
     }
-
 }
