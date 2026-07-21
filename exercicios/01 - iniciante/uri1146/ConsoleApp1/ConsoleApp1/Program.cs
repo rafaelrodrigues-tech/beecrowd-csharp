@@ -8,8 +8,14 @@ class URI
         {
             int i = 1;
             while (i <= x)
-            { 
-                Console.Write(i+" ");
+            {
+                if (i == x)
+                    Console.Write(i);
+                else
+                {
+
+                    Console.Write(i + " ");
+                }
                 i++;
             }
             Console.WriteLine();
