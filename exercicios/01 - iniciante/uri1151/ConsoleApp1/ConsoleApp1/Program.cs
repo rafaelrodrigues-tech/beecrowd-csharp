@@ -15,9 +15,10 @@ class URI
         for (int i = 3; i <= n; i++)
         {
             int c = a + b;
-            Console.Write(" " + c);
+            Console.Write(" "+c);
             a = b;
             b = c;
         }
+        Console.WriteLine();
     }
 }
