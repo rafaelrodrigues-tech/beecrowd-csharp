@@ -6,17 +6,24 @@ class URI
     static void Main(string[] args)
     {
         int n = int.Parse(Console.ReadLine());
-        
-        int linha = 1;
+
         int a = 1;
-        int b = 1;
-        int c = 1;
-        
-        while (linha <= (n * 2))
+        double b = 1;
+        double c = 1;
+        for (int i = 1; i <= (n * 2); i++)
         {
-
+            Console.WriteLine($"{a} {b} {c}");
+            if (i % 2 == 0)
+            {
+                a++;
+                b = Math.Pow(a, 2);
+                c = Math.Pow(a, 3);
+            }
+            else
+            {
+                b++;
+                c++;
+            }
         }
-
     }
-
 }
