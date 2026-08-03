@@ -1,5 +1,3 @@
--- Problema Select Básico 2602
-
 create table customers
 (
 	id numeric primary key,
@@ -27,6 +25,6 @@ values (4,'Jane Ester','Av 7 de setembro','Erechim','RS',800.00);
 insert into customers (id,name,street,city,state,credit_limit)
 values (5,'Marcos Antônio dos Santos','Av Farrapos','Porto Alegre','RS',4250.25)
 
-select name from customers where state = 'RS';
+select name from customers where state = 'RS'; -- Problema Select Básico 2602
 
-select name,street from customers where city = 'Porto Alegre';
+select name,street from customers where city = 'Porto Alegre'; -- Problema Endereço dos clientes 2603
