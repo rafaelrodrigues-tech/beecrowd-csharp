@@ -28,3 +28,5 @@ insert into customers (id,name,street,city,state,credit_limit)
 values (5,'Marcos Antônio dos Santos','Av Farrapos','Porto Alegre','RS',4250.25)
 
 select name from customers where state = 'RS';
+
+select name,street from customers where city = 'Porto Alegre';
