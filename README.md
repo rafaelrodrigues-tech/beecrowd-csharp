@@ -1,23 +1,18 @@
-# 🧠 Beecrowd Challenges – C#
+# 🧠 Beecrowd Challenges
 
-Repositório criado para acompanhar minha evolução em lógica de programação utilizando **C#** através dos desafios do **Beecrowd (URI Online Judge)**.
+Repositório criado para acompanhar minha evolução em lógica de programação, resolução de problemas em **C#** e consultas **SQL** por meio dos desafios do **Beecrowd (URI Online Judge)**.
 
-Aqui registro meu progresso de forma consistente, com código organizado e padrão de commits profissional.
+Aqui registro minha evolução com soluções organizadas, utilizando Git e GitHub para versionamento.
 
 ---
 
 ## 🎯 Objetivos
 
-- Desenvolver lógica de programação com exercícios reais  
-- Evoluir no ecossistema `.NET`  
-- Criar um histórico público de aprendizado  
-- Demonstrar constância e disciplina nos estudos  
-- Criar histórico público de aprendizado utilizando Git e GitHub
-- Aplicar boas práticas de versionamento e commits semânticos
-  
+- Desenvolver raciocínio lógico por meio da resolução de problemas.
+- Praticar consultas SQL utilizando PostgreSQL.
+- Reforçar conceitos de algoritmos e estruturas de dados.
+- Criar um histórico público da minha evolução.
+- Aplicar boas práticas de versionamento com Git e GitHub.
+- Manter consistência nos estudos.
+
 ---
-
-## 📁 Estrutura
-
-Cada pasta representa um problema específico do Beecrowd.
-
