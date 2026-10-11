@@ -1,12 +1,9 @@
 ﻿using System;
-
 class URI
 {
-
     static void Main(string[] args)
     {
         int n = int.Parse(Console.ReadLine());
-
         int a = 1;
         double b = 1;
         double c = 1;
